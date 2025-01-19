@@ -23,31 +23,37 @@ The script prompts the user to select one of the motion trajectories and provide
 
 + Prompt: Enter the edge dimension of the square.
 + Action: The turtle will move in a square path with the specified edge length.
++ ![Square Trajectory](https://github.com/LujainAbuRajab/ros_essentials_cpp/blob/e07b61a8c109909340a00d37c85495a6d5d6be38/src/topic03_perception/images/Sq.png)
 
 ### 2. Triangle Trajectory
 
 + Prompt: Enter the length of the triangle’s side.
 + Action: The turtle will draw an equilateral triangle.
++ ![Triangle Trajectory](https://github.com/LujainAbuRajab/ros_essentials_cpp/blob/e07b61a8c109909340a00d37c85495a6d5d6be38/src/topic03_perception/images/tri.png)
 
 ### 3. Circular Trajectory
 
 + Prompt: Enter the radius of the circle.
 + Action: The turtle will move in a circular path with the given radius.
++ ![Circular Trajectory](https://github.com/LujainAbuRajab/ros_essentials_cpp/blob/e07b61a8c109909340a00d37c85495a6d5d6be38/src/topic03_perception/images/circ.png)
 
 ### 4. Spiral Trajectory
 
 + Prompt: Enter the change in radius for the spiral shape.
 + Action: The turtle will move in an expanding or contracting spiral based on the input.
++ ![Spiral Trajectory](https://github.com/LujainAbuRajab/ros_essentials_cpp/blob/e07b61a8c109909340a00d37c85495a6d5d6be38/src/topic03_perception/images/spir.png)
 
 ### 5. Point to Point Trajectory
 
 + Prompt: Enter the destination coordinates (x, y).
 + Action: The turtle will navigate from its current position to the specified destination.
++ ![Point to Point Trajectory](https://github.com/LujainAbuRajab/ros_essentials_cpp/blob/e07b61a8c109909340a00d37c85495a6d5d6be38/src/topic03_perception/images/line.png)
 
 ### 6. Zigzag Motion
 
 + Prompt: The system will prompt for required parameters to execute zigzag motio
 + Action: The turtle will navigate back and forth using triangular paths to create a zigzag pattern.
++ ![Zigzag Motion](https://github.com/LujainAbuRajab/ros_essentials_cpp/blob/e07b61a8c109909340a00d37c85495a6d5d6be38/src/topic03_perception/images/zig.png)
 
 ### 7. Exit
 
